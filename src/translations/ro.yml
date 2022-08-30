@@ -41,6 +41,6 @@ decline: Renunță
 ok: OK
 poweredBy: Realizat de Klaro!
 purposeItem:
-    service: ''
-    services: ''
+    service: serviciu
+    services: servicii
 save: Salvează
