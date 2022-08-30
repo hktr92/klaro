@@ -24,19 +24,19 @@ privacyPolicy:
     name: politica de confidențialitate
     text: Pentru mai multe informații, citește {privacyPolicy}.
 purposeItem:
-    service: scop
-    services: scopuri
+    service: Scop
+    services: Scopuri
 purposes:
     advertising:
         description:
             Aceste servicii procesează informațiile personale ca să ofere reclame personalizate 
             furnizate în baza intereselor proprii.
-        title: Advertising
+        title: Publicitate
     functional:
         description:
             Aceste servicii sunt esențiale pentru funcționarea corectă al acestui site. Nu le poți dezactiva
             întrucât site-ul web nu ar mai funcționa corespunzător.
-        title: Service Provision
+        title: Funcțional
     marketing:
         description:
             Aceste servicii procesează informațiile personale să-ți ofere conținut relevant
